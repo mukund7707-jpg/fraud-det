@@ -29,3 +29,6 @@ export interface AnalysisState {
   uploadedFile: File | null;
   previewUrl: string | null;
 }
+
+
+# AI edit: change ui and add features

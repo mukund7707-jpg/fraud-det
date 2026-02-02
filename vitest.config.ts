@@ -14,3 +14,6 @@ export default defineConfig({
     alias: { "@": path.resolve(__dirname, "./src") },
   },
 });
+
+
+# AI edit: change ui and add features

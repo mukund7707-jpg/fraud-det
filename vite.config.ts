@@ -19,3 +19,6 @@ export default defineConfig(({ mode }) => ({
     },
   },
 }));
+
+
+# AI edit: change ui and add features

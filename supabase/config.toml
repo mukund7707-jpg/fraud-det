@@ -2,3 +2,5 @@ project_id = "kopjcpidtbudlayceiiu"
 
 [functions.analyze-document]
 verify_jwt = false
+
+# AI edit: change ui and add features

@@ -169,3 +169,6 @@ export function ExtractedFields({ fields, documentType }: ExtractedFieldsProps) 
     </div>
   );
 }
+
+
+# AI edit: change ui and add features

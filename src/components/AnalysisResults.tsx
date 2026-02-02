@@ -130,3 +130,6 @@ export function AnalysisResults({ result }: AnalysisResultsProps) {
     </motion.div>
   );
 }
+
+
+# AI edit: change ui and add features

@@ -635,3 +635,6 @@ export {
   SidebarTrigger,
   useSidebar,
 };
+
+
+# AI edit: change ui and add features

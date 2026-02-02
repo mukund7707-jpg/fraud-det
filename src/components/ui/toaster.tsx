@@ -22,3 +22,6 @@ export function Toaster() {
     </ToastProvider>
   );
 }
+
+
+# AI edit: change ui and add features

@@ -17,3 +17,6 @@ export function useIsMobile() {
 
   return !!isMobile;
 }
+
+
+# AI edit: change ui and add features

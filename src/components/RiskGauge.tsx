@@ -183,3 +183,6 @@ export function RiskGauge({ probability, confidence }: RiskGaugeProps) {
     </div>
   );
 }
+
+
+# AI edit: change ui and add features

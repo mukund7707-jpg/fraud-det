@@ -27,3 +27,6 @@ function Badge({ className, variant, ...props }: BadgeProps) {
 }
 
 export { Badge, badgeVariants };
+
+
+# AI edit: change ui and add features

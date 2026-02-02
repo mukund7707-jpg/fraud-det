@@ -24,3 +24,6 @@ const Checkbox = React.forwardRef<
 Checkbox.displayName = CheckboxPrimitive.Root.displayName;
 
 export { Checkbox };
+
+
+# AI edit: change ui and add features

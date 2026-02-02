@@ -5,3 +5,6 @@ function Skeleton({ className, ...props }: React.HTMLAttributes<HTMLDivElement>)
 }
 
 export { Skeleton };
+
+
+# AI edit: change ui and add features

@@ -20,3 +20,6 @@ const Input = React.forwardRef<HTMLInputElement, React.ComponentProps<"input">>(
 Input.displayName = "Input";
 
 export { Input };
+
+
+# AI edit: change ui and add features

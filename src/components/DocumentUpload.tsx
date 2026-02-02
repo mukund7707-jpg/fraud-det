@@ -188,3 +188,6 @@ export function DocumentUpload({
     </motion.div>
   );
 }
+
+
+# AI edit: change ui and add features

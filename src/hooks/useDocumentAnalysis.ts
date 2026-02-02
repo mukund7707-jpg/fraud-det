@@ -107,3 +107,6 @@ export function useDocumentAnalysis() {
     analyzeDocument,
   };
 }
+
+
+# AI edit: change ui and add features

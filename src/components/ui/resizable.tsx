@@ -35,3 +35,6 @@ const ResizableHandle = ({
 );
 
 export { ResizablePanelGroup, ResizablePanel, ResizableHandle };
+
+
+# AI edit: change ui and add features

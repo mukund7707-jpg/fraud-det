@@ -102,3 +102,6 @@ export function RiskFactors({ factors, fraudProbability }: RiskFactorsProps) {
     </div>
   );
 }
+
+
+# AI edit: change ui and add features

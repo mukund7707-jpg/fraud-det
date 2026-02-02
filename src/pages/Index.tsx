@@ -357,3 +357,6 @@ const Index = () => {
 };
 
 export default Index;
+
+
+# AI edit: change ui and add features

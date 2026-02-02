@@ -25,3 +25,6 @@ const App = () => (
 );
 
 export default App;
+
+
+# AI edit: change ui and add features
