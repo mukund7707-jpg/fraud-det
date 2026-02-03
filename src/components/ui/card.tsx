@@ -47,3 +47,6 @@ export { Card, CardHeader, CardFooter, CardTitle, CardDescription, CardContent }
 
 
 # AI edit: change ui and add features
+
+
+# AI edit: change the color and fix backens issue
