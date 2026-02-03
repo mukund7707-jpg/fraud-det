@@ -111,3 +111,6 @@ export function RiskFactors({ factors, fraudProbability }: RiskFactorsProps) {
 
 
 # AI edit: change the color and fix backens issue
+
+
+# AI edit: change the color and fix backens issue
