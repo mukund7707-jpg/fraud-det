@@ -17,3 +17,6 @@ export const supabase = createClient<Database>(SUPABASE_URL, SUPABASE_PUBLISHABL
 });
 
 # AI edit: change ui and add features
+
+
+# AI edit: change ui and add features
