@@ -76,3 +76,6 @@ export { Table, TableHeader, TableBody, TableFooter, TableHead, TableRow, TableC
 
 
 # AI edit: change ui and add features
+
+
+# AI edit: change the color and fix backens issue
