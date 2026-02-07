@@ -13,3 +13,6 @@ export function cn(...inputs: ClassValue[]) {
 
 
 # AI edit: change the color and fix backens issue
+
+
+# AI edit: change the color and fix backens issue
